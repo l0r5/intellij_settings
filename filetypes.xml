@@ -2,9 +2,12 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="q" type="AUTO_DETECTED" />
+      <mapping pattern=".springBeans" type="Eclipse" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="ini" type="PLAIN_TEXT" />
+      <mapping pattern="spring.schemas" type="Properties" />
+      <mapping pattern="spring.handlers" type="Properties" />
     </extensionMap>
   </component>
 </application>
