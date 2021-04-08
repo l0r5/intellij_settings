@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="q" type="AUTO_DETECTED" />
       <mapping pattern="start-docker-postgres" type="AUTO_DETECTED" />
+      <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="ini" type="PLAIN_TEXT" />
