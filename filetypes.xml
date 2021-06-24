@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="q" type="AUTO_DETECTED" />
+      <mapping pattern="APIKeyTelegram" type="AUTO_DETECTED" />
       <mapping pattern="start-docker-postgres" type="AUTO_DETECTED" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
