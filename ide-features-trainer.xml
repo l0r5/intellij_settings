@@ -21,6 +21,13 @@
         <entry key="comment line" value="PASSED" />
         <entry key="completion with tab" value="PASSED" />
         <entry key="duplicate" value="PASSED" />
+        <entry key="git.annotate" value="NOT_PASSED" />
+        <entry key="git.basicworkflow" value="NOT_PASSED" />
+        <entry key="git.changelistsandshelf" value="NOT_PASSED" />
+        <entry key="git.commit" value="NOT_PASSED" />
+        <entry key="git.interactiverebase" value="NOT_PASSED" />
+        <entry key="git.projecthistory" value="NOT_PASSED" />
+        <entry key="git.quickstart" value="NOT_PASSED" />
         <entry key="move" value="NOT_PASSED" />
         <entry key="multiple selections" value="PASSED" />
         <entry key="navigation.declaration/implementation" value="PASSED" />
